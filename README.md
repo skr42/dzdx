@@ -1,6 +1,6 @@
-# LLM-based Profanity and Abuse Filtering API
+# Profanity and Abuse Filtering API
 
-A FastAPI-based REST API that uses machine learning models to detect toxic and abusive content in text comments.
+A FastAPI-based REST API that uses models to detect toxic and abusive content in text comments.
 
 
 ## Project Structure
